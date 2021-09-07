@@ -1,0 +1,23 @@
+1627571417714	geckodriver	INFO	Listening on 127.0.0.1:63224
+1627571420752	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Umut\\AppData\\Local\\Temp\\rust_mozprofile9DfHgh"
+1627571421697	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Umut\\AppData\\Local\\Temp\\rust_mozprofile9DfHgh\\search.json.mozlz4", (void 0)))
+1627571424054	Marionette	INFO	Listening on port 63232
+1627571424408	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+1627571442651	Marionette	INFO	Stopped listening on port 63232
+1627571452350	geckodriver	INFO	Listening on 127.0.0.1:63029
+1627571455410	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Umut\\AppData\\Local\\Temp\\rust_mozprofileqT2UUU"
+1627571455765	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Umut\\AppData\\Local\\Temp\\rust_mozprofileqT2UUU\\search.json.mozlz4", (void 0)))
+1627571457596	Marionette	INFO	Listening on port 63037
+[Child 18328, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+1627571458032	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1627571485967	Marionette	INFO	Stopped listening on port 63037
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
